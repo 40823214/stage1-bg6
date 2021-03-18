@@ -25,9 +25,6 @@
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 <v t="leo.20210318231113.1"><vh>slide 3-4</vh></v>
-<v t="leo.20210319004208.1"><vh>newHeadline</vh>
-<v t="leo.20210319004235.1"><vh>newHeadline</vh></v>
-</v>
 </v>
 <v t="leo.20200818170725.1"><vh>第三周成果</vh></v>
 <v t="leo.20210319001702.1"><vh>pdf</vh></v>
@@ -188,7 +185,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;協同題目:自動吹笛子機&lt;/h2&gt;
     &lt;p&gt;
-       設計理念:我們其中一人為國樂社社長，若是能藉由程式去演奏樂器可解決社員人數不足之問題。&lt;/p&gt;
+       起源:我們其中一人為國樂社社長，若是能藉由程式去演奏樂器可解決社員人數不足之問題。
+&lt;/p&gt;
+&lt;p&gt;設計理念:因為笛子大小有大有小，所以在設計上需要考慮到各種不同尺寸而能簡易修改相對位置，故使用鋁擠型與具有長條孔的零件做固定，這樣要變更不同笛子時能更加輕鬆簡便&lt;/p&gt;
                             &lt;p&gt;製作規劃:&lt;/p&gt;
                       &lt;p&gt; 第二周:繪製零件圖&lt;/p&gt;
                       &lt;p&gt; 第三周:修改並測試&lt;/p&gt;
@@ -237,10 +236,5 @@ vertical: body pane on the botton</t>
     &lt;p&gt;這次我們是自己找組員，所以對於溝通想法上更加的契合，辦事效率也比較好，雖然我們最後並沒有讓完整的模擬跑出來，但我覺得這樣這樣的分工是可行的，看到我們兩人分組的成果，讓我對後面4人及8人分組也較有信心&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210319001702.1"></t>
-<t tx="leo.20210319004208.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
-&lt;/section&gt;</t>
-<t tx="leo.20210319004235.1"></t>
 </tnodes>
 </leo_file>
