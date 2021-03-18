@@ -212,7 +212,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;第二周成果&lt;/h2&gt;
     &lt;p&gt;正面配置圖&lt;/p&gt;
-  &lt;p&gt;&lt;img alt="" height="438" src="https://github.com/40823225/stage1-bg6/blob/main/images/1615527019642.jpg" width="600"&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img alt="" height="438" src="https://github.com/40823225/stage1-bg6/images/1615527019642.jpg" width="600"&gt;&lt;/p&gt;
   &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
