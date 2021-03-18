@@ -212,7 +212,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;第二周成果&lt;/h2&gt;
     &lt;p&gt;正面配置圖&lt;/p&gt;
-  &lt;img src="/images/1615527019642.jpg" width="600" hight="300"&gt;
+  &lt;img src="1615527019642.jpg" width="600" hight="300"&gt;
   &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
