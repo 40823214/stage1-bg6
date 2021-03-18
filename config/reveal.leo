@@ -244,11 +244,7 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;第二周成果&lt;/h2&gt;
     &lt;p&gt;正面配置圖&lt;/p&gt;
    &lt;img alt="" height="438" src="/images/1615527019642.jpg" width="600"&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
+  &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
     &lt;h2&gt;背面配置圖&lt;/h2&gt;
@@ -258,11 +254,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
     &lt;h2&gt;氣泵與配管配置圖&lt;/h2&gt;
     &lt;img caption="false" height="308" src="/images/1615537266890.jpg" width="600"&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
+   &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
@@ -651,10 +643,6 @@ console.log( '"customevent" has fired' );
 <t tx="leo.20210318231113.1">&lt;section&gt;
     &lt;h2&gt;汽缸連桿機構放大&lt;/h2&gt;
     &lt;img alt="" height="512" src="/images/1615537310988.jpg" width="600"&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
+   &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
