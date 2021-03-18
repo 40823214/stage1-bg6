@@ -233,10 +233,9 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+    &lt;h2&gt;第三周成果&lt;/h2&gt;
+    &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/X6ULHyd3ls0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/X6ULHyd3ls0"&gt;https://youtu.be/X6ULHyd3ls0&lt;/a&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
