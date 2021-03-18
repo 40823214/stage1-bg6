@@ -254,6 +254,6 @@ vertical: body pane on the botton</t>
 結構方面大量使用鋁擠型作為結構件，一來減輕重量、二來節省成本，並且將
 所有需要使用到的物件都固定在主要結構上。在連桿上也大量使用表準零件減
 少加工所需的成本，以最大化簡省成本。&lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
