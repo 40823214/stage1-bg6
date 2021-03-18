@@ -25,6 +25,9 @@
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 <v t="leo.20210318231113.1"><vh>slide 3-4</vh></v>
+<v t="leo.20210319004208.1"><vh>newHeadline</vh>
+<v t="leo.20210319004235.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 <v t="leo.20200818170725.1"><vh>第三周成果</vh></v>
 <v t="leo.20210319001702.1"><vh>pdf</vh></v>
@@ -234,5 +237,10 @@ vertical: body pane on the botton</t>
     &lt;p&gt;這次我們是自己找組員，所以對於溝通想法上更加的契合，辦事效率也比較好，雖然我們最後並沒有讓完整的模擬跑出來，但我覺得這樣這樣的分工是可行的，看到我們兩人分組的成果，讓我對後面4人及8人分組也較有信心&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210319001702.1"></t>
+<t tx="leo.20210319004208.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210319004235.1"></t>
 </tnodes>
 </leo_file>
