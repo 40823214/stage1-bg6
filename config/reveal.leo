@@ -218,11 +218,10 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;協同題目:自動吹笛子機&lt;/h2&gt;
     &lt;p&gt;
        設計理念:我們其中一人為國樂社社長，若是能藉由程式去演奏樂器可解決社員人數不足之問題。&lt;/p&gt;
-             &lt;p&gt;製作規劃:
-                       第二周:繪製零件圖
-                       第三周:修改並測試
-                            第四周:報告
-    &lt;/p&gt;
+                            &lt;p&gt;製作規劃:&lt;/p&gt;
+                      &lt;p&gt; 第二周:繪製零件圖&lt;/p&gt;
+                      &lt;p&gt; 第三周:修改並測試&lt;/p&gt;
+                          &lt;p&gt;  第四周:報告&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
