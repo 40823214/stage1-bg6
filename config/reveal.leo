@@ -234,7 +234,7 @@ vertical: body pane on the botton</t>
     &lt;p&gt;這次我們是自己找組員，所以對於溝通想法上更加的契合，辦事效率也比較好，雖然我們最後並沒有讓完整的模擬跑出來，但我覺得這樣這樣的分工是可行的，看到我們兩人分組的成果，讓我對後面4人及8人分組也較有信心&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210319001702.1">&lt;section&gt;
-&lt;h2&gt;PDF&lt;/h2&gt;
+&lt;h4&gt;PDF&lt;/h4&gt;
 &lt;iframe data-src="協同產品設計實習.pdf" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
 &lt;/section&gt;
 </t>
