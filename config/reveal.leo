@@ -221,7 +221,7 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;氣泵與配管配置圖&lt;/h2&gt;
     &lt;img caption="false" height="308" src="/images/1615537266890.jpg" width="600"&gt;
    &lt;/section&gt;</t>
-<t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
+<t tx="leo.20200818195800.1">&lt;section&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
     &lt;p&gt;報告到此結束&lt;/p&gt;
 &lt;/section&gt;</t>
@@ -231,7 +231,8 @@ vertical: body pane on the botton</t>
    &lt;/section&gt;</t>
 <t tx="leo.20210319001444.1">&lt;section&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
-    &lt;p&gt;這次我們分組可以自己找組員&lt;/p&gt;</t>
+    &lt;p&gt;這次我們是自己找組員，所以對於溝通想法上更加的契合，辦事效率也比較好，雖然我們最後並沒有讓完整的模擬跑出來，但我覺得這樣這樣的分工是可行的，看到我們兩人分組的成果，讓我對後面4人及8人分組也較有信心&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20210319001702.1"></t>
 </tnodes>
 </leo_file>
