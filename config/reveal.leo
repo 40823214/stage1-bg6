@@ -232,7 +232,11 @@ vertical: body pane on the botton</t>
     &lt;h2&gt;心得&lt;/h2&gt;
     &lt;p&gt;這次我們是自己找組員，所以對於溝通想法上更加的契合，辦事效率也比較好，雖然我們最後並沒有讓完整的模擬跑出來，但我覺得這樣這樣的分工是可行的，看到我們兩人分組的成果，讓我對後面4人及8人分組也較有信心&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210319001702.1"></t>
+<t tx="leo.20210319001702.1">&lt;section&gt;
+&lt;h2&gt;PDF&lt;/h2&gt;
+&lt;iframe data-src="協同產品設計實習.pdf" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+&lt;/section&gt;
+</t>
 <t tx="leo.20210319014545.1">&lt;section&gt;
 &lt;h2&gt;設計理念&lt;/h2&gt;
 &lt;p&gt;因為笛子大小有大有小，所以在設計上需要考慮到各種不同尺寸而能簡易修改相對位置，故使用鋁擠型與具有長條孔的零件做固定，這樣要變更不同笛子時能更加輕鬆簡便&lt;/p&gt;
