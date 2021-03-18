@@ -249,7 +249,7 @@ vertical: body pane on the botton</t>
 &lt;p&gt; 第四周:報告&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210319022227.1">&lt;section&gt;
-&lt;h3&gt;設計解說&lt;/h3&gt;
+&lt;h1&gt;設計解說&lt;/h1&gt;
 &lt;p&gt;因”自動吹笛子機”我們想要做成一個可以隨身攜帶的小型機件，所以在
 結構方面大量使用鋁擠型作為結構件，一來減輕重量、二來節省成本，並且將
 所有需要使用到的物件都固定在主要結構上。在連桿上也大量使用表準零件減
