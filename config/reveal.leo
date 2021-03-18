@@ -212,17 +212,17 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;第二周成果&lt;/h2&gt;
     &lt;p&gt;正面配置圖&lt;/p&gt;
-  &lt;p&gt;&lt;img alt="" height="323" src="https://github.com/40823225/stage1-bg6/images/成品1.jpg" width="916"&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;image src="成品1.jpg" width="600" hight="300"&gt;&lt;/p&gt;
   &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
     &lt;h2&gt;背面配置圖&lt;/h2&gt;
-   &lt;img caption="false" height="362" src="/images/1615537310988.jpg" width="600"&gt;
+  &lt;p&gt;&lt;image src="成品2.jpg" width="600" hight="300"&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
     &lt;h2&gt;氣泵與配管配置圖&lt;/h2&gt;
-    &lt;img caption="false" height="308" src="/images/1615537266890.jpg" width="600"&gt;
+    &lt;p&gt;&lt;image src="成品3.jpg" width="600" hight="300"&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="leo.20200818195800.1">&lt;section&gt;
     &lt;h1&gt;THE END&lt;/h1&gt;
@@ -230,7 +230,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210318231113.1">&lt;section&gt;
     &lt;h2&gt;汽缸連桿機構放大&lt;/h2&gt;
-    &lt;img alt="" height="512" src="/images/汽缸機構.jpg" width="600"&gt;
+    &lt;p&gt;&lt;image src="成品4.jpg" width="600" hight="300"&gt;&lt;/p&gt;
    &lt;/section&gt;</t>
 <t tx="leo.20210319001444.1">&lt;section&gt;
     &lt;h2&gt;心得&lt;/h2&gt;
