@@ -28,8 +28,16 @@
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 <v t="leo.20210318231113.1"><vh>slide 3-4</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>第三周成果</vh></v>
-<v t="leo.20210319022227.1"><vh>設計解說</vh></v>
+<v t="leo.20200818170725.1"><vh>第三周成果</vh>
+<v t="leo.20210319023841.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319023834.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319023930.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319023950.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20210319022227.1"><vh>設計解說</vh>
+<v t="leo.20210319024127.1"><vh>newHeadline</vh></v>
+<v t="leo.20210319024144.1"><vh>newHeadline</vh></v>
+</v>
 <v t="leo.20210319001702.1"><vh>pdf</vh></v>
 <v t="leo.20210319001444.1"><vh>心得</vh></v>
 <v t="leo.20200818195800.1"><vh>結果</vh></v>
@@ -199,12 +207,10 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;第三周成果&lt;/h2&gt;
-    &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/X6ULHyd3ls0"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/X6ULHyd3ls0"&gt;https://youtu.be/X6ULHyd3ls0&lt;/a&gt;&lt;/p&gt;
+<t tx="leo.20200818170725.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;第二周成果&lt;/h2&gt;
@@ -248,12 +254,35 @@ vertical: body pane on the botton</t>
 &lt;p&gt; 第三周:修改並測試&lt;/p&gt;
 &lt;p&gt; 第四周:報告&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210319022227.1">&lt;section&gt;
+<t tx="leo.20210319022227.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319023834.1">&lt;section&gt;
+  &lt;p&gt;&lt;image src="1.jpg" width="600" hight="300"&gt;&lt;/p&gt;
+  &lt;/section&gt;</t>
+<t tx="leo.20210319023841.1">&lt;section&gt;
+    &lt;h2&gt;第三周成果&lt;/h2&gt;
+    &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/X6ULHyd3ls0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://youtu.be/X6ULHyd3ls0"&gt;https://youtu.be/X6ULHyd3ls0&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210319023930.1">&lt;section&gt;
+  &lt;p&gt;&lt;image src="2.jpg" width="600" hight="300"&gt;&lt;/p&gt;
+  &lt;/section&gt;</t>
+<t tx="leo.20210319023950.1">&lt;section&gt;
+  &lt;p&gt;&lt;image src="3.jpg" width="600" hight="300"&gt;&lt;/p&gt;
+  &lt;/section&gt;</t>
+<t tx="leo.20210319024127.1">&lt;section&gt;
 &lt;h1&gt;設計解說&lt;/h1&gt;
 &lt;p&gt;因”自動吹笛子機”我們想要做成一個可以隨身攜帶的小型機件，所以在
 結構方面大量使用鋁擠型作為結構件，一來減輕重量、二來節省成本，並且將
 所有需要使用到的物件都固定在主要結構上。在連桿上也大量使用表準零件減
 少加工所需的成本，以最大化簡省成本。&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210319024144.1">&lt;section&gt;
+  &lt;p&gt;&lt;image src="4.jpg" width="600" hight="300"&gt;&lt;/p&gt;
+  &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
